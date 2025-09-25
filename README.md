@@ -85,6 +85,14 @@ lib/
 👉 [Watch the demo here](https://github.com/user-attachments/assets/c22459b9-b258-46f3-8412-5a09bf3e4bf6)
 
 ---
+## 🚀 Getting Started
+
+To run the app:
+
+```bash
+flutter pub get
+flutter run
+
 
 ## ▶️ How to Run  
 
