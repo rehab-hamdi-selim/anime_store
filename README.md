@@ -90,6 +90,6 @@ lib/
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/anime-store.git
+   git clone https://github.com/rehab-hamdi-selim/anime-store.git
    cd anime-store
 
